@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/r6nted/yt/blob/main/images/51642011fdd8c9a7ccbb3ddd703d9daa.png?raw=true">
 <div align="center">
-<img src="https://img.shields.io/github/license/r6nted/yt?color=1DA1F2&style=for-the-badge">
+<img src="https://img.shields.io/github/license/r6nted/yt-dl?color=1DA1F2&style=for-the-badge">
 <img src="https://img.shields.io/twitter/follow/loonaverrsse?color=1DA1F2&label=Follow%20me&logo=twitter&logoColor=1DA1F2&style=for-the-badge">
 <div align="center">
 <img src="https://forthebadge.com/images/badges/open-source.svg">
@@ -9,9 +9,9 @@
 <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
 </div>
 <div align="center">
-<img src="https://img.shields.io/github/stars/r6nted/yt?color=yellow&logo=github&logoColor=yellow&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/r6nted/yt?color=silver&logo=github&logoColor=silver&style=for-the-badge">
-<img src="https://img.shields.io/github/watchers/r6nted/yt?color=red&logo=github&logoColor=red&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/r6nted/yt-dl?color=yellow&logo=github&logoColor=yellow&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/r6nted/yt-dl?color=silver&logo=github&logoColor=silver&style=for-the-badge">
+<img src="https://img.shields.io/github/watchers/r6nted/yt-dl?color=red&logo=github&logoColor=red&style=for-the-badge">
 
 </div>
 </div>
